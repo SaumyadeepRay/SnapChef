@@ -6,7 +6,8 @@
 //
 
 import Foundation
-import UIKit
+
+// MARK: - Structs
 
 struct Ingredient {
     let name: String
